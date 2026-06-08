@@ -20,7 +20,6 @@
 
 ---
 
-<img src="docs/main.png" alt="主界面" width="85%">
 
 </div>
 
@@ -73,18 +72,6 @@
 </tr>
 </table>
 
-## 界面预览
-
-<table>
-<tr>
-<td align="center"><strong>登录界面</strong></td>
-<td align="center"><strong>用户管理</strong></td>
-</tr>
-<tr>
-<td><img src="docs/login.png" width="100%"></td>
-<td><img src="docs/user_manage.png" width="100%"></td>
-</tr>
-</table>
 
 ## 项目结构
 
